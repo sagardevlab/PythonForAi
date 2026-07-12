@@ -1,5 +1,13 @@
 Terminologies - 
 
+Module - a single python file
+
+Package - a folder containing multiple modules
+
+Function - A reusable block of code (like print() or sqrt())
+
+Class: A blueprint for creating objects
+
 Virtual Environments - these are seperated private copies of each projects and we can make any changes we want in those copies so that real application will not break. 
 
 Create VE - using VS Code Command Palette
